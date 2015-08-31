@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RSS by RGVWEBPRO
-Plugin URI:  http://rgvwebpro.com/
+Plugin URI:  https://github.com/rgvwebpro/rgvwebprorss
 Description: Adds extra tags to RSS feeds (ie. featured image).
 Version:     0.1-alpha
 Author:      RGVWEBPRO
